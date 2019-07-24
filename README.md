@@ -39,7 +39,7 @@
   If no song is provided then the program will default to "The Sign" by Ace of Base.
   
 * STEP 3: node liri.js movie-this '<movie name here
-  Title of the movie.
+    * Title of the movie.
   Year the movie came out.
   IMDB Rating of the movie.
   Rotten Tomatoes Rating of the movie.
