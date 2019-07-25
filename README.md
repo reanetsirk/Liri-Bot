@@ -49,3 +49,6 @@
     * Actors in the movie.
        
 * STEP 4: node liri.js do-what-it-says
+
+# Screen Shots
+
